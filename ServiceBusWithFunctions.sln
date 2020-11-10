@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionApp", "FunctionApp\FunctionApp.csproj", "{64A38426-CBCD-45D1-966C-84BA6D9571A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{A0905450-35B4-440C-BD4B-21C3E531A1A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper", "Helper\Helper.csproj", "{EAE54D1E-D2BA-415F-8980-61B5A74396D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A38426-CBCD-45D1-966C-84BA6D9571A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A38426-CBCD-45D1-966C-84BA6D9571A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A38426-CBCD-45D1-966C-84BA6D9571A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A38426-CBCD-45D1-966C-84BA6D9571A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0905450-35B4-440C-BD4B-21C3E531A1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0905450-35B4-440C-BD4B-21C3E531A1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0905450-35B4-440C-BD4B-21C3E531A1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0905450-35B4-440C-BD4B-21C3E531A1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE54D1E-D2BA-415F-8980-61B5A74396D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE54D1E-D2BA-415F-8980-61B5A74396D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE54D1E-D2BA-415F-8980-61B5A74396D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE54D1E-D2BA-415F-8980-61B5A74396D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16EC0F92-3318-4144-930C-6BC01BE94E0D}
+	EndGlobalSection
+EndGlobal
